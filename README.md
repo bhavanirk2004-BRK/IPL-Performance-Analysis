@@ -1,2 +1,2 @@
-# IPL-Performance-Analysis
-Built an interactive IPL Performance Analysis Dashboard in Tableau to analyze team and player performance across IPL seasons. The dashboard includes KPIs, top winning teams, run scorers, wicket takers, toss analysis, season trends, and dynamic filters for data-driven insights and exploration
+# Projects
+Built Blinkit Sales Analysis in Power BI and IPL Performance Analysis in Tableau after cleaning and preparing data in Excel. Created interactive dashboards with KPIs, filters, and visualizations to generate actionable insights from retail and sports datasets.
